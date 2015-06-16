@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="images">
+
+        <item>http://s.fishki.net/upload/post/201506/16/1567477/9455962bb352689661aab5998f6514e9.jpg</item>
+        <item>http://s.fishki.net/upload/post/201506/16/1567477/8cb7ded982d6616f6a82bfc3ce279403.jpg</item>
+        <item>http://s.fishki.net/upload/post/201506/16/1567477/d5595db8bbcba588832c8482e234ae2f.jpg</item>
+        <item>http://s.fishki.net/upload/post/201506/16/1567477/fd3de09baae314ed37a71607732dc860.jpg</item>
+        <item>http://s.fishki.net/upload/post/201506/16/1567477/ae2dc642addd255f58c72cf0a54a8120.jpg</item>
+        <item>http://s.fishki.net/upload/post/201506/16/1567477/4999bb9004436e1a162c0f86bcd02f61.jpg</item>
+        <item>http://s.fishki.net/upload/post/201506/16/1567477/e82e61fba206d2fa01ccb1c61ac307f1.jpg</item>
+        <item>http://s.fishki.net/upload/post/201506/16/1567477/67d094bddae7b5e0a997bef92342e04b.jpg</item>
+        <item>http://s.fishki.net/upload/post/201506/16/1567477/112194533965339f13a075b3354f685c.jpg</item>
+        <item>http://s.fishki.net/upload/post/201506/16/1567477/1f58857fd620f1044bbfd3f188ee4167.jpg</item>
+        <item>http://s.fishki.net/upload/post/201506/16/1567477/a47628bbaa573b343927e705517455cc.jpg</item>
+        <item>http://s.fishki.net/upload/post/201506/16/1567477/cd030db96f9154c6598d5b072d60e291.jpg</item>
+        <item>http://s.fishki.net/upload/post/201506/16/1567477/6a50204053cf13448433561ea8abf112.jpg</item>
+        <item>http://s.fishki.net/upload/post/201506/16/1567477/53a24239b879c86e145ea31e22c11c4a.jpg</item>
+        <item>http://s.fishki.net/upload/post/201506/16/1567477/12a71a8c75e7a042710412e37eee48d6.jpg</item>
+        <item>http://s.fishki.net/upload/post/201506/16/1567477/9d61dcd90b442b226ee10c18a078b122.jpg</item>
+        <item>http://s.fishki.net/upload/post/201506/16/1567477/58b633b0f1e962abc30e792ca044fd4f.jpg</item>
+        <item>http://s.fishki.net/upload/post/201506/16/1567477/7b49ccee9b24b4353d1ca933266554ea.jpg</item>
+
+    </string-array>
+
+</resources>
